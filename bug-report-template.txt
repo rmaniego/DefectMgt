@@ -17,6 +17,9 @@ InternalCodeName VERSION TestType TestSuite [Feature]: Concise bug title
 
 [Expected results]
 
+[Additional information]
+ See attached logs, screenshot, and video...
+
 [Is this Breakage?]
  No, new implementation
  No, missed from previous pass

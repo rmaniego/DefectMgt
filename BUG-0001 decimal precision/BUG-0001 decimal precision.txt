@@ -22,6 +22,9 @@ TsukiYo v1.0 2ndPass UI [Settings]: Decimal Precision not working
 [Expected results]
  The prices should be in integer format.
 
+[Additional information]
+ See attached logs and screenshot...
+
 [Is this Breakage?]
  No, new implementation
  
